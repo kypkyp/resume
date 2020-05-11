@@ -45,6 +45,7 @@
 
 - Adobe XD/Photoshop/Illustrator
 - Cubase/Serum
+  - 大学時代のバイトとしてベンチャー企業でアプリ用のサウンド制作を行いました。
 
 # 自然言語
 - 日本語
