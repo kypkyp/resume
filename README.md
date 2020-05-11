@@ -40,7 +40,11 @@
 - Java
 
 #### その他
+
+グラフィック・サウンドもプロトタイプレベルでがんばります。
+
 - Adobe XD/Photoshop/Illustrator
+- Cubase/Serum
 
 # 自然言語
 - 日本語
