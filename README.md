@@ -41,7 +41,7 @@
 
 #### その他
 
-グラフィック・サウンドもプロトタイプレベルでがんばります。
+グラフィックやサウンドもプロトタイプレベルでがんばります。
 
 - Adobe XD/Photoshop/Illustrator
 - Cubase/Serum
