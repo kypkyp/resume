@@ -1,4 +1,5 @@
 <img alt="Welcome to my resume!" src="https://kypprivate.s3-ap-northeast-1.amazonaws.com/me.jpg" width="480px">
+<center>[FOSTEX PM SUB-8](https://www.fostex.jp/products/pm-sub8/)を抱える筆者</center>
 
 # 概要
 - [Nuita](https://github.com/nuita/nuita)の主要開発者です。
@@ -59,5 +60,10 @@
 - 卒論題目：「[ソロモン諸島のPijin語における従属節標識について](https://github.com/kypkyp/sotsuron)」
 - データ収集やコーパスの頻度分析に際してRubyを使用しました。
 - 現地でフィールドワークを行うNPO法人のウェブサイト制作を手伝う見返りとしてガダルカナル島の調査に同行、2週間滞在し言語調査を行いました。
-<img alt="ツラギ島へ向かう船に乗る筆者" src="https://kypprivate.s3-ap-northeast-1.amazonaws.com/kyp_on_ship.jpg">
+<img alt="ツラギ島へ向かう船に乗る筆者" src="https://kypprivate.s3-ap-northeast-1.amazonaws.com/kyp_on_ship.jpg" width="480px">
 - ツラギ島へ向かう筆者です。この写真いる？
+
+# 趣味
+- 音楽・作曲
+- 語学
+- まんがタイムきらら
