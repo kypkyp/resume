@@ -1,5 +1,6 @@
 <img alt="Welcome to my resume!" src="https://kypprivate.s3-ap-northeast-1.amazonaws.com/me.jpg" width="480px">
-<center>[FOSTEX PM SUB-8](https://www.fostex.jp/products/pm-sub8/)を抱える筆者</center>
+
+- [FOSTEX PM SUB-8](https://www.fostex.jp/products/pm-sub8)を抱える筆者
 
 # 概要
 - [Nuita](https://github.com/nuita/nuita)の主要開発者です。
