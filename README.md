@@ -29,7 +29,7 @@
 - けっこうユーザーがいます。フォロワーもあります。https://magwatta.com
 - フィーチャーやUI・UX設計もしています。最近は文書化・OSS化を進めています。
 
-#### [panchira](https://github.com/nuita/panchira))
+#### [panchira](https://github.com/nuita/panchira)
 - Nuitaの開発から派生してできたGemです。
 - 成人向けのウェブサイトやAPIからデータを取得します。
 - この履歴書を見ているときには公開できていることを願います。
