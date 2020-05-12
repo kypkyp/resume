@@ -65,8 +65,8 @@
 - 言語学研究室でソロモン諸島のPijin語を研究しました。
   - ガダルカナル島とか鉄底海峡とかあるところです。
 - 卒論題目：「[ソロモン諸島のPijin語における従属節標識について](https://github.com/kypkyp/sotsuron)」
-- データ収集やコーパスの頻度分析に際してRubyを使用しました。
 - 現地でフィールドワークを行うNPO法人のウェブサイト制作を手伝う見返りとしてガダルカナル島の調査に同行、2週間滞在し言語調査を行いました。
+- データ収集やコーパスの頻度分析に際してRubyを使用しました。
 
 <img alt="ツラギ島へ向かう船に乗る筆者" src="https://kypprivate.s3-ap-northeast-1.amazonaws.com/kyp_on_ship.jpg" width="480px">
 
