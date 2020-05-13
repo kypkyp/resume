@@ -32,7 +32,8 @@
 #### [panchira](https://github.com/nuita/panchira)
 - Nuitaの開発から派生してできたGemです。
 - 成人向けのウェブサイトやAPIからデータを取得します。
-- この履歴書を見ているときには公開できていることを願います。
+- この履歴書を見ているときには公開できていることを願います。 
+  - 公開しました https://rubygems.org/gems/panchira
 
 #### その他
 - SlackやtwitterのbotをNodeJSで作ったり
