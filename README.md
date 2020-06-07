@@ -26,14 +26,13 @@
 # 制作物
 #### [Nuita](https://github.com/nuita/nuita)
 - Rails製のSNSを開発し、VPS(ConoHa)上で稼働させています。https://nuita.net
-- けっこうユーザーがいます。フォロワーもあります。https://magwatta.com
+- 1年間の稼働で6000回以上の投稿がされました。
 - フィーチャーやUI・UX設計もしています。最近は文書化・OSS化を進めています。
 
 #### [panchira](https://github.com/nuita/panchira)
 - Nuitaの開発から派生してできたGemです。
 - 成人向けのウェブサイトやAPIからデータを取得します。
-- この履歴書を見ているときには公開できていることを願います。 
-  - 公開しました https://rubygems.org/gems/panchira
+- RubyGemsに公開しました https://rubygems.org/gems/panchira
 
 #### その他
 - SlackやtwitterのbotをNodeJSで作ったり
