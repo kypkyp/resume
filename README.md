@@ -8,7 +8,7 @@
 - 組織や職能としては明確な職域のない小規模チームで、0→1のサービス開発がしたいと考えています。
 
 # スキル
-#### 業務、プロダクト開発に使用
+#### 業務、プロダクト開発に使用経験あり
 - Ruby (Ruby on Rails)
 - AWS (2021年6月SAA取得)
 - Terraform
@@ -17,6 +17,7 @@
 - Docker
 - PHP
 - Go
+- Java
 - HTML/CSS/JavaScript
 - TypeScript
 - React
@@ -26,7 +27,6 @@
 #### ドキュメントを読みながら使用可能
 - C++
 - C#
-- Java
 
 # 制作物
 #### [Nuita](https://nuita.net/)
