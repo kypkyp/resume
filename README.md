@@ -37,7 +37,8 @@
 - RubyGemsに公開しました https://rubygems.org/gems/panchira
 
 #### [server-kun](https://github.com/kypkyp/server-kun)
-- 
+- Discordのbot経由でGCEインスタンスを起動・停止するTerraformテンプレートです。
+- 詳細は自身のブログに記載しました https://kyp.jp/posts/server-kun2/
 
 #### その他
 - [高校生のときはゲーム開発をしていました](https://kyp.hatenablog.com/entry/2015/12/25/013344)
