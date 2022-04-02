@@ -10,7 +10,7 @@
 # スキル
 #### 業務、プロダクト開発に使用
 - Ruby (Ruby on Rails)
-- AWS ([SAA]取得)
+- AWS (2021年6月SAA取得)
 - Terraform
 - Github Actions
 - CircleCI
