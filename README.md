@@ -49,7 +49,7 @@
 2020年9月～ EC系事業会社
 - 国内有数のEC系事業会社でバックエンドエンジニアとして働いています。2つの現場を経験しました。
 - 1. ものづくり系 関わった技術(頻度順): Java, JavaScript, AWS SAM, Lambda, Stepfunction, Terraform
-- 2. 電子データ系 関わった技術(頻度順): PHP, Terraform, Docker, CircleCI, New Relic, DynamoDB
+- 2. 電子コンテンツ系 関わった技術(頻度順): PHP, Terraform, Docker, CircleCI, New Relic, DynamoDB
 
 # 学歴
 2016年4月～2020年3月 京都大学文学部人文学科行動文化学系言語学専修
