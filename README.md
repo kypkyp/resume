@@ -3,47 +3,62 @@
 - 著者近影。[FOSTEX PM SUB-8](https://www.fostex.jp/products/pm-sub8)とともに
 
 # 概要
-- [Nuita](https://github.com/nuita/nuita)の主要開発者です。ウェブサービス開発・運用できます。
+- [Nuita](https://nuita.net/)の開発者です。サービス企画から実際の開発まで、ウェブサービスを一通り動かすことができます。
 - コーディングだけでなく、ウェブアプリのフィーチャーやUIを考えるのも好きです。
-- ~~2020年4月から報道業界のSEとして働き始めましたが、転職を考えています。~~
-  - 成功しました　ありがとう某氏　両親　世界
-  - 必要になったときのためにこのレジュメは残しておきます
-
+- Nuitaの事業化に向けた時間を捻出するため、週2～3日稼働のアルバイトを探しています。
 
 # スキル
-#### わりと使える。たまにドキュメント見る
-- Ruby on Rails
-- Ruby
-- C++
-
-#### ドキュメントガン見して使う
+#### 業務、プロダクト開発に使用
+- Ruby (Ruby on Rails)
+- AWS ([SAA]取得)
+- Terraform
+- Docker
+- PHP
+- Go
+- HTML/CSS/JavaScript
 - TypeScript
-- JavaScript
 - React
 - Nginx
 - MySQL
+
+#### ドキュメントを読みながら使用可能
+- C++
 - C#
 - Java
 
 # 制作物
-#### [Nuita](https://github.com/nuita/nuita)
-- Rails製のSNSを開発し、VPS(ConoHa)上で稼働させています。https://nuita.net
-- 1年間の稼働で6000回以上の投稿がされました。
-- フィーチャーやUI・UX設計もしています。最近は文書化・OSS化を進めています。
+#### [Nuita](https://nuita.net/)
+- Ruby on Rails製のウェブサービスです。合計数万の投稿があります。
+- ConoHa(VPS)上で動かしていたものをAWSに移行しました。EC2, RDS, Cloudfront等をIaCで構築しています。
 
 #### [panchira](https://github.com/nuita/panchira)
 - Nuitaの開発から派生してできたGemです。
 - 成人向けのウェブサイトやAPIからデータを取得します。
 - RubyGemsに公開しました https://rubygems.org/gems/panchira
 
+#### [server-kun](https://github.com/kypkyp/server-kun)
+- 
+
 #### その他
-- SlackやtwitterのbotをNodeJSで作ったり
-- 卒論(後述)用にRubyでスクレイピングしたりコーパス分析したり
 - [高校生のときはゲーム開発をしていました](https://kyp.hatenablog.com/entry/2015/12/25/013344)
 
+# 職歴
+2020年9月～ EC系事業会社
+- 国内有数のEC系事業会社でバックエンドエンジニアとして働いています。2つの現場を経験しました。
+- 1. ものづくり系 関わった技術(頻度順): Java, JavaScript, AWS SAM, Lambda, Stepfunction, Terraform
+- 2. 電子データ系 関わった技術(頻度順): PHP, Terraform, Docker, New Relic, DynamoDB
+
+# 学歴
+2016年4月～2020年3月 京都大学文学部人文学科行動文化学系言語学専修
+- 卒論題目：「[ソロモン諸島のPijin語における従属節標識について](https://github.com/kypkyp/sotsuron)」
+- 現地でフィールドワークを行うNPO法人のウェブサイト制作を手伝う見返りとしてガダルカナル島の調査に同行、2週間滞在し言語調査を行いました。
+- データ収集やコーパスの頻度分析に際してRubyを使用しました。
+
+<img alt="ツラギ島へ向かう船に乗る筆者" src="https://kypprivate.s3-ap-northeast-1.amazonaws.com/kyp_on_ship.jpg" width="480px">
+
 #### その他
 
-グラフィックやサウンドもプロトタイプレベルでがんばります。
+グラフィックやサウンドもプロトタイプレベルであれば作成することができます。
 
 - Adobe XD/Photoshop/Illustrator
 - Cubase/Serum
@@ -53,28 +68,6 @@
 - 日本語
   - native
 - 英語
-  - わりとできる。アメリカ・カリフォルニア州に幼少期の4年間を過ごす。
-  - "breakfast"の綴りを一発で覚えて天才児扱いされてたらしい
   - TOEFL iBT Score 97 (2019/02)
 - Pijin語
-  - ソロモン諸島の事実上の共通言語（リンガ・フランカ）
-  - 研究(後述)していたので文法や単語はかなり分かる
-  - 話せるかは別……。
-- その他ギリシャ語、タイ語、チェコ語、ヘブライ語、ドイツ語等学びました。もう忘れてるかも
-
-# 学歴
-2016年4月～2020年3月 京都大学文学部人文学科行動文化学系言語学専修
-- 言語学研究室でソロモン諸島のPijin語を研究しました。
-  - ガダルカナル島とか鉄底海峡とかあるところです。
-- 卒論題目：「[ソロモン諸島のPijin語における従属節標識について](https://github.com/kypkyp/sotsuron)」
-- 現地でフィールドワークを行うNPO法人のウェブサイト制作を手伝う見返りとしてガダルカナル島の調査に同行、2週間滞在し言語調査を行いました。
-- データ収集やコーパスの頻度分析に際してRubyを使用しました。
-
-<img alt="ツラギ島へ向かう船に乗る筆者" src="https://kypprivate.s3-ap-northeast-1.amazonaws.com/kyp_on_ship.jpg" width="480px">
-
-- ツラギ島へ向かう筆者です。この写真いる？
-
-# 趣味
-- 音楽・作曲
-- 語学
-- まんがタイムきらら
+  - ソロモン諸島の事実上の共通言語（リンガ・フランカ）です。
