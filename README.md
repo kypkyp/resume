@@ -1,16 +1,14 @@
-<img alt="Welcome to my resume!" src="https://kypprivate.s3-ap-northeast-1.amazonaws.com/me.jpg" width="480px">
-
-- 著者近影。[FOSTEX PM SUB-8](https://www.fostex.jp/products/pm-sub8)とともに
-
 # 概要
-- [Nuita](https://nuita.net/)の開発者です。サービス企画から実際の開発まで、ウェブサービスを一通り動かすことができます。
-- Nuitaの事業化に向けた時間を捻出するため、週2～3日稼働のアルバイトを探しています。
-- 組織や職能としては明確な職域のない小規模チームで、0→1のサービス開発がしたいと考えています。
+- 2023年1月に前職を退職しました。現在は個人でのサービス開発を行いつつ、フリーランス・正社員問わず現在お仕事を募集しております。
+- ウェブサービスの企画から実際の開発・運用まで、0→1のサービス立ち上げであればだいたいのことができます。
+- [Nuita](https://nuita.net/)を私とデザイナーの2名で開発しています。今年前半くらいまではこの事業化にチャレンジする予定です。
+　　- Nuitaではウェブアプリの開発そのものだけでなく、ユーザーにアポを取っての通話ヒアリングやそれを受けてのプロダクト改修などを行いました。ベンチャー企業で必要とされる、プロダクトの全てに関われるエンジニアを目指しています。
 
 # スキル
 #### 業務、プロダクト開発に使用経験あり
 - Ruby (Ruby on Rails)
 - AWS (2021年6月SAA取得)
+  - DynamoDBやStep Function等、サーバーレス寄りの設計が好きです。ただし、適切な領域でなければ使用しません。
 - Terraform
 - Github Actions
 - CircleCI
@@ -27,15 +25,16 @@
 #### ドキュメントを読みながら使用可能
 - C++
 - C#
+- Python
 
 # 制作物
 #### [Nuita](https://nuita.net/)
-- Ruby on Rails製のウェブサービスです。合計数万の投稿があります。
-- ConoHa(VPS)上で動かしていたものをAWSに移行しました。EC2, RDS, Cloudfront等をIaCで構築しています。
+- Ruby on Rails製のウェブサービスです。大学在籍中に立ち上げ、現在は1日数千ユーザーの閲覧があります。
+- ConoHa(VPS)上で動かしていたものをAWSに移行しました。EC2, RDS, DynamoDB, Cloudfront等をIaCで構築しています。
 
 #### [panchira](https://github.com/nuita/panchira)
 - Nuitaの開発から派生してできたGemです。
-- 成人向けのウェブサイトやAPIからデータを取得します。
+- 成人向けのウェブサイトやAPIからデータを取得します。有料や非公開コンテンツは取得しません。
 - RubyGemsに公開しました https://rubygems.org/gems/panchira
 
 #### [server-kun](https://github.com/kypkyp/server-kun)
@@ -46,10 +45,15 @@
 - [高校生のときはゲーム開発をしていました](https://kyp.hatenablog.com/entry/2015/12/25/013344)
 
 # 職歴
-2020年9月～ EC系事業会社
-- 国内有数のEC系事業会社でバックエンドエンジニアとして働いています。2つの現場を経験しました。
-- 1. ものづくり系 関わった技術(頻度順): Java, JavaScript, AWS SAM, Lambda, Stepfunction, Terraform
-- 2. 電子コンテンツ系 関わった技術(頻度順): PHP, Terraform, Docker, CircleCI, New Relic, DynamoDB
+2020年9月～2023年1月 EC系事業会社
+- 国内有数のEC系事業会社でバックエンドエンジニアとして働いていました。2つの現場を経験しました。
+- 1. ものづくり系
+  - エンジニア3〜4名、全メンバー十数名の部署でフルスタックエンジニアとしてサービスの運用・開発を行いました。
+  - 関わった技術(頻度順): Java, JavaScript, AWS SAM, Lambda, Stepfunction, Terraform
+- 2. 電子コンテンツ系
+  - エンジニア20名以上の部署で、バックエンドエンジニア及びSREとしてサービスの運用・開発を行いました。
+  - 新規案件のためのAPI基盤立ち上げ時には、バックエンドエンジニアとしてコードアーキテクチャの設計にも関わりました。
+  - 関わった技術(頻度順): PHP, Terraform, Docker, CircleCI, New Relic, ECS, Cloudfront, DynamoDB
 
 # 学歴
 2016年4月～2020年3月 京都大学文学部人文学科行動文化学系言語学専修
@@ -63,7 +67,7 @@
 
 グラフィックやサウンドもプロトタイプレベルであれば作成することができます。
 
-- Adobe XD/Photoshop/Illustrator
+- Figma/Adobe XD/Photoshop/Illustrator
 - Cubase/Serum
   - バイトとしてアプリ用のサウンド制作を行った経験があります。
 
