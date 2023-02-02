@@ -41,6 +41,8 @@
 #### [Nuita](https://nuita.net/)
 - Ruby on Rails製のウェブサービスです。大学在籍中に立ち上げ、現在は1日数千ユーザーの閲覧があります。
 - ConoHa(VPS)上で動かしていたものをAWSに移行しました。EC2, RDS, DynamoDB, Cloudfront等をIaCで構築しています。
+- 技術的には[Railsチュートリアル](https://railstutorial.jp/)で作るTwitterクローンに毛が生えた程度のものです。改造点については以下のブログ記事に記載しています。
+  - https://kyp.jp/posts/ac2022/
 
 #### [panchira](https://github.com/nuita/panchira)
 - Nuitaの開発から派生してできたGemです。
@@ -75,7 +77,7 @@
 
 #### その他
 
-グラフィックやサウンドもプロトタイプレベルであれば作成することができます。
+グラフィックやサウンドもプロトタイプレベルであれば作成することができます。クリエイティブな作業全般が好きです。
 
 - Figma/Adobe XD/Photoshop/Clip Studio Paint
 - Cubase/Serum
