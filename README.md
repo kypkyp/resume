@@ -18,7 +18,7 @@
 - Ruby (Ruby on Rails)
 - AWS (2021年6月SAA取得)
   - 特に詳しい技術: DynamoDB, API Gateway, Lambda, StepFunction, SQS, EC2(VPC), RDS, ECS 
-- Terraform, 
+- Terraform, CloudFormation
 - Github Actions, CircleCI
 - Docker
 - PHP
@@ -26,7 +26,6 @@
 - Java
 - HTML/CSS/JavaScript
 - TypeScript, Next.js, Nuxt.js
-- React
 - Nginx
 - MySQL
 
