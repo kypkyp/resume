@@ -11,23 +11,21 @@
 # 概要
 - 2023年1月に前職を退職しました。現在は個人でのサービス開発を行いつつ、フリーランスのお仕事を募集しております。
 - ウェブサービスの企画から実際の開発・運用まで、0→1のサービス立ち上げであればだいたいのことができます。
-- [Nuita](https://nuita.net/)というサービスを私とデザイナーの2名で開発しています。今年前半くらいまではこの事業化にチャレンジする予定です。
-  - Nuitaではウェブアプリの開発そのものだけでなく、ユーザーにアポを取っての通話ヒアリングやそれを受けてのプロダクト改修などを行いました。ベンチャー企業で必要とされる、プロダクトの全てに関われるエンジニアを目指しています。
+- 私とデザイナーの2名で[SAFE HAVN](https://safehavn.dev/)というユニットを組み、営利を目的としないウェブサービスの開発を行っています。
 
 # スキル
-#### 業務、プロダクト開発に使用経験あり
+#### 業務、プロダクト開発の使用経験あり
 - Ruby (Ruby on Rails)
 - AWS (2021年6月SAA取得)
-  - DynamoDBやStep Function等、サーバーレス寄りの設計が好きです。ただし、適切な領域でなければ使用しません。
-- Terraform
-- Github Actions
-- CircleCI
+  - 特に詳しい技術: DynamoDB, API Gateway, Lambda, StepFunction, SQS, EC2(VPC), RDS, ECS 
+- Terraform, 
+- Github Actions, CircleCI
 - Docker
 - PHP
 - Go
 - Java
 - HTML/CSS/JavaScript
-- TypeScript
+- TypeScript, Next.js, Nuxt.js
 - React
 - Nginx
 - MySQL
@@ -39,19 +37,18 @@
 
 # 制作物
 #### [Nuita](https://nuita.net/)
-- Ruby on Rails製のウェブサービスです。大学在籍中に立ち上げ、現在は1日数千ユーザーの閲覧があります。
-- ConoHa(VPS)上で動かしていたものをAWSに移行しました。EC2, RDS, DynamoDB, Cloudfront等をIaCで構築しています。
-- 技術的には[Railsチュートリアル](https://railstutorial.jp/)で作るTwitterクローンに毛が生えた程度のものです。改造点については以下のブログ記事に記載しています。
-  - https://kyp.jp/posts/ac2022/
+- Ruby on Rails製のウェブサービスです。大学在籍中にデザイナーの友人と立ち上げ、以降4年間開発・保守を行っています。現在は1日数千ユーザーが使用しています。
+- 以前はConoHa(VPS)上で動かしていましたが、マネージドサービスを使用するためAWSに移行しました。EC2, RDS, DynamoDB, Cloudfront, SQS等の仕組みをIaCで構築しています。
+- New Relic, DynamoDB + SQSによる非同期処理, Elasticsearch等を使ってスケールするアーキテクチャを組んでいます。 https://kyp.jp/posts/ac2022/
 
 #### [panchira](https://github.com/nuita/panchira)
-- Nuitaの開発から派生してできたGemです。
-- 成人向けのウェブサイトやAPIからデータを取得します。有料や非公開コンテンツは取得しません。
-- RubyGemsに公開しました https://rubygems.org/gems/panchira
+- OSSのRuby Gemsです。
+- Nuitaで発生した複雑なビジネスロジックをモジュール化するために開発したライブラリで、オブジェクト指向を用いた拡張性の高い設計となっています。
+- https://rubygems.org/gems/panchira
 
 #### [server-kun](https://github.com/kypkyp/server-kun)
 - Discordのbot経由でGCEインスタンスを起動・停止するTerraformテンプレートです。
-- 詳細は自身のブログに記載しました https://kyp.jp/posts/server-kun2/
+- 詳細は自身のブログに記載しています。 https://kyp.jp/posts/server-kun2/
 
 # 職歴
 2020年9月～2023年1月 合同会社DMM.com
